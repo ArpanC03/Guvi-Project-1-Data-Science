@@ -119,8 +119,8 @@ Name: Arpan Chatterjee
 
 Roll: 2312RES162, IITP
 
-Email: arpan2312res162@iitp.ac.in
+Email: arpan_2312res162@iitp.ac.in
 
-GitHub:[ [Your GitHub profile link here]](https://github.com/ArpanC03)
+GitHub: https://github.com/ArpanC03
 
 
